@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modeling Binary Outcomes: Logistic Regression in R
+title: 'Modeling Binary Outcomes: Logistic Regression in R'
 nav_order: 20251120
 ---
 
