@@ -6,7 +6,7 @@ nav_order: 20260210
 
 <img src="assets/img/gis-data.png" alt="Workshop Title Slide" width="100%">
 
-# Finding, Accessing, and Adding GIS Data to Your Project'
+# Finding, Accessing, and Adding GIS Data to Your Project
 
 ## Workshop Preparation 
 
