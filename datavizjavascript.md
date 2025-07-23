@@ -19,13 +19,15 @@ No prior Plotly experience is required, but basic Javascript familiarity is reco
 
 ## Workshop Preparation 
 
-Download VS Code Editor: https://code.visualstudio.com/ 
+Download VS Code Editor: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 ## Facilitator Bio
 
 Subhanya (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

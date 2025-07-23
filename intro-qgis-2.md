@@ -21,9 +21,9 @@ Absolutely no geography or quantitative background is necessary for an engaging 
 
 ## Workshop Preparation 
 
-Download latest (long-term release) version of QGIS: https://qgis.org/download/
+Download latest (long-term release) version of QGIS: [https://qgis.org/download/](https://qgis.org/download/)
 
-Specific notes for mac os users: The first launch of application may fail due to Apple’s security framework. Can follow this workflow: https://qgis.org/resources/installation-guide/#mac-os-x--macos
+Specific notes for mac os users: The first launch of application may fail due to Apple’s security framework. Can follow this workflow: (https://qgis.org/resources/installation-guide/#mac-os-x--macos)[https://qgis.org/resources/installation-guide/#mac-os-x--macos]
 
 Saman will be available 30 mins before workshop to help troubleshoot.
 
@@ -32,6 +32,8 @@ Saman will be available 30 mins before workshop to help troubleshoot.
 Saman’s (she/her) work operates at the intersection of information science and critical geography. She’s particularly interested in the ways in which community-owned and -governed infrastructure can contribute to equitable knowledge systems. Currently, Saman takes care of McMaster’s Lloyd Reeds Map Collection, ensuring community members are able to access, understand, and use the collection for teaching and research.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

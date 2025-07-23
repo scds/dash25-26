@@ -20,13 +20,15 @@ This session is ideal for anyone curious about visualizing networks—no prior e
 
 ## Workshop Preparation 
 
-Install Gephi: https://gephi.org/
+Install Gephi: [https://gephi.org/](https://gephi.org/)
 
 ## Facilitator Bio
 
 Subhanya (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 
