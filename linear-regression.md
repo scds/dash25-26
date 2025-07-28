@@ -14,13 +14,13 @@ This hands-on, intermediate-level workshop introduces linear modeling in R, a po
 
 By the end of this session, participants will be able to:
 
-Fit a linear regression model using R
+- Fit a linear regression model using R
 
-Interpret key output from a linear model
+- Interpret key output from a linear model
 
-Check model assumptions and explore diagnostic plots
+- Check model assumptions and explore diagnostic plots
 
-Apply linear modeling techniques to real-world data
+- Apply linear modeling techniques to real-world data
 
 This session is best suited for participants who have some prior experience using R and are ready to expand their skills into statistical modeling.
 

@@ -14,11 +14,11 @@ This hands-on workshop will introduce you to Python’s basic concepts, includin
 
 By the end of this session, participants will be able to:
 
-Understand fundamental Python data types and variables
+- Understand fundamental Python data types and variables
 
-Perform basic operations on numbers and strings
+- Perform basic operations on numbers and strings
 
-Write simple Python code to manipulate and store data
+- Write simple Python code to manipulate and store data
 
 This session will be recorded and made publicly available. It’s perfect for anyone looking for a practical introduction to Python programming.
 

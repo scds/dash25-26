@@ -14,13 +14,13 @@ In this hands-on workshop, you’ll learn how to access, manage, and analyze PUM
 
 By the end of this session, participants will be able to:
 
-Access and navigate Statistics Canada’s PUMF datasets
+- Access and navigate Statistics Canada’s PUMF datasets
 
-Manage microdata for analysis using common tools
+- Manage microdata for analysis using common tools
 
-Apply basic statistical methods to extract insights
+- Apply basic statistical methods to extract insights
 
-Interpret and communicate results from survey data
+- Interpret and communicate results from survey data
 
 This workshop is ideal for students, faculty, staff, and community members interested in exploring national data.
 

@@ -13,9 +13,9 @@ Are you working on a systematic review and want to take it to the next step? In 
 In this hands-on workshop, you’ll learn how to conduct a meta-analysis tailored for systematic reviews of RCTs. We’ll use R, a free, open-source statistical software, to guide you through importing data, calculating effect sizes, assessing heterogeneity, and producing forest plots. Whether you’re new to meta-analysis or just need a refresher, this session offers a practical entry point into evidence synthesis using reproducible, code-based workflows.
 
 ln this workshop, participants will learn to:
--Run a meta-analysis and create a forest plot
--Perform subgroup analyses
--Create funnel plots for publication bias
+- Run a meta-analysis and create a forest plot
+- Perform subgroup analyses
+- Create funnel plots for publication bias
 
 No prior experience with meta-analysis is required. This workshop is ideal for researchers who are conducting or planning to conduct systematic reviews involving RCTs. Basic familiarity with R (e.g., running R scripts or using RStudio) is helpful but not required. we’ll provide all the code and walk through each step together.
 

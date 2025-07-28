@@ -16,13 +16,13 @@ This beginner-friendly workshop introduces SPSS through hands-on activities usin
 
 By the end of this session, participants will be able to:
 
-Navigate the SPSS interface and load data
+- Navigate the SPSS interface and load data
 
-Run descriptive statistics such as means, frequencies, and standard deviations
+- Run descriptive statistics such as means, frequencies, and standard deviations
 
-Conduct basic statistical tests (e.g., t-tests, correlations)
+- Conduct basic statistical tests (e.g., t-tests, correlations)
 
-Interpret and export results from SPSS
+- Interpret and export results from SPSS
 
 This session is ideal for students, researchers, and staff who want a user-friendly introduction to statistical analysis. No prior experience required!
 
