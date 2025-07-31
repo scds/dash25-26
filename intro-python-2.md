@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to Python Programming
+title: Introduction to Python Programming (Winter Term)
 nav_order: 20260212
 ---
 
 <img src="assets/img/intro-python(4).png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to Python Programming
+# Introduction to Python Programming (Winter Term)
 
 Interested in learning one of the world’s most popular programming languages? Python is beginner-friendly and widely used across many fields for data analysis, automation, and more.
 

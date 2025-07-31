@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to R Programming
+title: Introduction to R Programming (Fall Term)
 nav_order: 20251016
 ---
 
 <img src="assets/img/intro-r.png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to R Programming
+# Introduction to R Programming (Fall Term)
 
 Curious about R but not sure where to start? This beginner-friendly workshop is designed for those with no prior experience in R programming. You’ll get hands-on with RStudio, explore key data types and data structures, and learn how to perform basic data manipulation. By the end, you’ll be able to write and run your own R scripts with confidence.
 

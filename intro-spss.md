@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to Data Analysis with SPSS
+title: Introduction to Data Analysis with SPSS (Fall Term)
 nav_order: 20251030
 ---
 
 <img src="assets/img/intro-spss.png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to Data Analysis with SPSS
+# Introduction to Data Analysis with SPSS (Fall Term)
 
 Looking for an accessible way to analyze data? SPSS is a widely used statistical software that makes it easy to explore, summarize, and interpret data—no programming required.
 

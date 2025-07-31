@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Microdata Analysis with Python using Statistics Canada Data
+title: Microdata Analysis with Python using Statistics Canada Data (Fall Term)
 nav_order: 20251127
 ---
 
 <img src="assets/img/microdata-python.png" alt="Workshop Title Slide" width="100%">
 
-# Microdata Analysis with Python using Statistics Canada Data
+# Microdata Analysis with Python using Statistics Canada Data (Fall Term)
 
 Interested in working with Canadian survey data? This hands-on workshop introduces participants to data analysis using Public Use Microdata Files (PUMF) from Statistics Canada’s sample surveys.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to Python Programming
+title: Introduction to Python Programming (Fall Term)
 nav_order: 20251113
 ---
 
 <img src="assets/img/intro-python.png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to Python Programmnig
+# Introduction to Python Programming (Fall Term)
 
 Interested in learning one of the world’s most popular programming languages? Python is beginner-friendly and widely used across many fields for data analysis, automation, and more.
 

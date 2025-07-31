@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to R Programming
+title: Introduction to R Programming (Winter Term)
 nav_order: 20260115
 ---
 
 <img src="assets/img/intro-python(3).png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to R Programming
+# Introduction to R Programming (Winter Term)
 
 Curious about R but not sure where to start? This beginner-friendly workshop is designed for those with no prior experience in R programming. You’ll get hands-on with RStudio, explore key data types and data structures, and learn how to perform basic data manipulation. By the end, you’ll be able to write and run your own R scripts with confidence.
 

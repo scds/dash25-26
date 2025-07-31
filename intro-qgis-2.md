@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Map Making for Absolute Beginners Using QGIS
+title: Map Making for Absolute Beginners Using QGIS (Winter Term)
 nav_order: 20260120
 ---
 
 <img src="assets/img/intro-qgis-2.png" alt="Workshop Title Slide" width="100%">
 
-# Map Making for Absolute Beginners Using QGIS
+# Map Making for Absolute Beginners Using QGIS (Winter Term)
 
 Interested in digital mapping, but unsure of where to start? This beginner-focused workshop introduces you to the fundamentals of geographic data and teaches you how to create digital maps using QGIS, a free and open-source geographic information system (GIS). QGIS is available free of charge to everyone, including current students, staff, and faculty at McMaster University. It’s a great starting point for anyone looking to explore mapping in their research, projects, or creative work.
 

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Introduction to Data Analysis with SPSS
+title: Introduction to Data Analysis with SPSS (Winter Term)
 nav_order: 20260129
 ---
 
 <img src="assets/img/intro-spss2.png" alt="Workshop Title Slide" width="100%">
 
-# Introduction to Data Analysis with SPSS
+# Introduction to Data Analysis with SPSS (Winter Term)
 
 <!-- Title in spreadsheet says Analyzing Data with SPSS? -->
 
