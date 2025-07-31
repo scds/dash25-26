@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Data Visualizations with Javascript
+title: Creating Data Visualizations with Javascript
 nav_order: 20260129
 ---
 
 <img src="assets/img/datavizjavascript.png" alt="Workshop Title Slide" width="100%">
 
-# Data Visualizations with Javascript
+# Creating Data Visualizations with Javascript
 
 Ready to bring your data to life? This hands-on workshop will equip you with the essential skills to transform data into compelling and interactive visualizations using Plotly.js, a powerful open-source graphing library. In this introductory session, we’ll use Plotly to create a range of common chart types and gradually build skills toward more advanced and customized visualizations.
 
