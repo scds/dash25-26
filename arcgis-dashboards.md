@@ -30,6 +30,3 @@ Christine Homuth (she/her) is the Library's GIS Specialist, providing support an
 ## Workshop Slides
 
 Coming soon.
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
