@@ -10,9 +10,19 @@ nav_order: 20251120
 
 Do you want to analyze outcomes like disease presence, voting behavior, or customer churn? Logistic regression is a powerful method for modeling binary outcomes and understanding how different factors influence the likelihood of an event. In this hands-on workshop, you’ll learn how to use R to build and interpret logistic regression models, helping you make informed decisions based on your data.
 
-This workshop introduces logistic regression using R, with a focus on practical applications and interpretation. Participants will start with foundational concepts and gradually build to fitting multiple logistic regression models. Through guided examples, you’ll learn how to structure your data, fit models using glm(), interpret coefficients (including odds ratios), and evaluate model performance.
+This workshop introduces logistic regression using R, with a focus on practical applications and interpretation. In this session, participants will:
 
-This session is ideal for participants who have some experience with R and are ready to explore statistical modeling in a supportive, practical setting. Attending the linear regression workshop or having prior familiarity with linear regression concepts, will enhance your learning experience in this session, but it is not required.
+- Understand foundational concepts of logistic regression
+
+- Learn how to structure and prepare data for logistic regression analysis
+
+- Use the glm() function in R to fit multiple logistic regression models
+
+- Interpret model coefficients, including odds ratios
+
+- Evaluate the performance and fit of logistic regression models
+
+This session is ideal for participants who have some experience with R and are ready to explore statistical modeling in a supportive, practical setting. Attending the linear regression workshop or having prior familiarity with linear regression concepts will enhance your learning experience in this session, but it is not required.
 
 ## Workshop Preparation
 
