@@ -18,7 +18,6 @@ By the end of the session, participants will be able to:
 
 This session is ideal for anyone looking to present data in clear and engaging ways.
 
-Prep: To follow along, participants will need access to ArcGIS Online. Current McMaster students, staff, and faculty can request a license through the ArcGIS Software Request Form [https://mcmaster-ca.libwizard.com/f/arcgis](https://mcmaster-ca.libwizard.com/f/arcgis).
 
 ## Workshop Preparation 
 
