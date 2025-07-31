@@ -19,7 +19,7 @@ In this workshop, participants will learn to:
 - Choose appropriate plot types for different kinds of data 
 - Customize plots by modifying aesthetics, adding labels, adjusting color schemes, and applying themes
 
-No prior experience with R Strudio is required. This workshop is ideal for researchers who are looking to enhance their data storytelling skills through visualization.
+No prior experience with R Studio is required. This workshop is ideal for researchers who are looking to enhance their data storytelling skills through visualization.
 
 ## Workshop Preparation 
 
