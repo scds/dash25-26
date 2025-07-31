@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Network Visualization and Analysis with Gephi
+title: Visualizing Networks with Gephi
 nav_order: 20251023
 ---
 
 <img src="assets/img/gephi.png" alt="Workshop Title Slide" width="100%">
 
-# Network Visualization and Analysis with Gephi
+# Visualizing Networks with Gephi
 
 Want to explore how people, ideas, or objects are connected? In this virtual workshop, you will learn how to use Gephi, a free and open-source tool designed for network visualization and analysis. We will focus on how graph data can help express relationships between entities, perfect for exploring everything from social networks to historical connections. 
 
