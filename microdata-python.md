@@ -8,7 +8,21 @@ nav_order: 20251127
 
 # Microdata Analysis with Python using Statistics Canada Data
 
-This hands-on workshop will guide participants through the process of data analysis using the Public Use Microdata File (PUMF) from Statistics Canada’s sample surveys. You will learn how to access, manage, and analyze microdata to extract meaningful insights. Participants will engage with sample datasets, explore various statistical techniques, and gain practical experience in interpreting and presenting their findings. Whether you're a student, researcher, or professional, this workshop will equip you with the tools to effectively analyze and utilize Canadian survey data.
+Interested in working with Canadian survey data? This hands-on workshop introduces participants to data analysis using Public Use Microdata Files (PUMF) from Statistics Canada’s sample surveys.
+
+You’ll learn how to access, manage, and analyze microdata to uncover meaningful insights. Using sample datasets, we’ll walk through various statistical techniques and give you practical experience in interpreting and presenting your findings.
+
+By the end of this session, participants will be able to:
+
+- Locate and access Statistics Canada PUMF dataset
+
+- Organize and manage microdata for analysis
+
+- Apply basic statistical techniques to explore the data
+
+- Interpret and present results with clarity and confidence
+
+This session is ideal for students, faculty, staff, and community members interested in Canadian data—no prior experience required.
 
 ## Workshop Preparation 
 

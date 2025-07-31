@@ -8,7 +8,17 @@ nav_order: 20251113
 
 # Introduction to Python Programmnig
 
-This beginner-level workshop will introduce you to the basic concepts of the world’s most popular Python programming language. You’ll learn to store data in Python data types and variables, as well as learn how to perform operations on numbers and strings. No prior knowledge of Python is required. This session will be recorded and made available openly.
+Interested in learning one of the world’s most popular programming languages? Python is beginner-friendly and widely used across many fields for data analysis, automation, and more.
+
+This hands-on workshop will introduce you to Python’s basic concepts, including data types, variables, and simple operations on numbers and strings. No prior experience with Python is needed.
+
+By the end of this session, participants will be able to:
+
+- Understand fundamental Python data types and variables
+- Perform basic operations on numbers and strings
+- Write simple Python code to manipulate and store data
+
+This session will be recorded and made publicly available. It’s perfect for anyone looking for a practical introduction to Python programming.
 
 ## Workshop Preparation 
 

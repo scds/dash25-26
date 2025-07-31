@@ -8,7 +8,18 @@ nav_order: 20251030
 
 # Introduction to Data Analysis with SPSS
 
-This beginner-level workshop will introduce you to the basics of SPSS statistical software, how it works, and some basic descriptive statistics and statistical procedures. No prior knowledge of SPSS is required. This session will be recorded and made available openly.
+Looking for an accessible way to analyze data? SPSS is a widely used statistical software that makes it easy to explore, summarize, and interpret data—no programming required.
+
+This beginner-friendly workshop introduces SPSS through hands-on activities using its point-and-click interface. You’ll learn how to import data, run basic descriptive statistics, and perform simple analyses like t-tests and correlations.
+
+By the end of this session, participants will be able to:
+
+- Navigate the SPSS interface and load data
+- Run descriptive statistics such as means, frequencies, and standard deviations
+- Conduct basic statistical tests (e.g., t-tests, correlations)
+- Interpret and export results from SPSS
+
+This session is ideal for students, researchers, and staff who want a user-friendly introduction to statistical analysis. No prior experience required!
 
 ## Workshop Preparation 
 
