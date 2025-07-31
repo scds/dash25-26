@@ -8,7 +8,18 @@ nav_order: 20251016
 
 # Introduction to R Programming
 
-This beginner-level workshop will focus on basic concepts of R programming using R Studio. Various Data Types and Data Structures will be discussed as well as basic data manipulation. No prior knowledge of R programming is required for this workshop. This workshop consists of a synchronous workshop session, which will be recorded and shared publicly afterward.
+Curious about R but not sure where to start? This beginner-friendly workshop is designed for those with no prior experience in R programming. You’ll get hands-on with RStudio, explore key data types and data structures, and learn how to perform basic data manipulation. By the end, you’ll be able to write and run your own R scripts with confidence.
+
+This session will take place synchronously and will be recorded and shared publicly for future reference.
+
+In the workshop, participants will learn to:
+
+- Navigate the RStudio environment
+- Understand and use basic data types and structures in R
+- Write and run simple R scripts
+- Perform basic data manipulation tasks
+
+Whether you're working with data in the sciences, humanities, or social sciences, this workshop offers a strong foundation to begin your R programming journey.
 
 ## Workshop Preparation 
 
