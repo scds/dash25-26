@@ -20,7 +20,7 @@ No technical expertise is required! This session is geared toward anyone looking
 
 ## Workshop Preparation 
 
-Participants will require a Google Account and access to Microsoft Excel to follow along and make their own maps.
+Participants will require a Google Account and access to Microsoft Excel to follow along and make their own maps. Please note that you will need to download Microsoft Excel. The web version does not support the required mapping features. McMaster affiliates can <a href="[url](https://office365.mcmaster.ca/office-365-3/applications/ms-excel/#tab-content-getting-started)">download Microsoft Excel here</a>. 
 
 ## Facilitator Bio
 
