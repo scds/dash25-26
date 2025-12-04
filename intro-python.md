@@ -30,8 +30,7 @@ Vivek Jadon (he/him) provides research support in the use of numeric research da
 
 ## Workshop Slides
 
-Coming soon.
-
 <embed src="assets/docs/Introduction-Python-Programming_NOV-13-2025.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/Introduction-Python-Programming_NOV-13-2025.pdf)
+
