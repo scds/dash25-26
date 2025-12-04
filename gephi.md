@@ -27,9 +27,6 @@ Install Gephi: [https://gephi.org/](https://gephi.org/)
 Subhanya (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 ## Workshop Slides
+<embed src="assets/docs/Gephi-Presentation.pdf" style="border:none;" width="100%" height="466px">
 
-Coming soon.
-
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/Gephi-Presentation.pdf)
