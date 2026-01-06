@@ -4,7 +4,7 @@ title: Introduction to REDCap for Electronic Data Collection
 nav_order: 20260204
 ---
 
-<img src="assets/img/microdata-python(2).png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/intro-redcap.png" alt="Workshop Title Slide" width="100%">
 
 # Introduction to REDCap for Electronic Data Collection
 
