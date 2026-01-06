@@ -14,13 +14,13 @@ This hands-on introductory workshop guides participants through the essential fe
 The session emphasizes practical learning through step-by-step demonstrations and live practice activities so participants can confidently create their own REDCap projects. No prior experience with REDCap or database tools is required. Participants who wish to practice building a survey during the session will need access to a REDCap account.
 
 By the end of this workshop, participants will be able to:
-•	Describe the purpose and key features of REDCap for research data collection
-•	Build and customize a basic survey or data collection form
-•	Navigate core project settings and project workflows
-•	Distribute surveys using public links or automated invitations
-•	Perform basic data review and simple analysis within REDCap
-•	Export project data for analysis in R, SAS, SPSS, or Excel
-•	Recognize how REDCap supports secure, organized, and reproducible research workflows
+- Describe the purpose and key features of REDCap for research data collection
+- Build and customize a basic survey or data collection form
+- Navigate core project settings and project workflows
+- Distribute surveys using public links or automated invitations
+- Perform basic data review and simple analysis within REDCap
+- Export project data for analysis in R, SAS, SPSS, or Excel
+- Recognize how REDCap supports secure, organized, and reproducible research workflows
 
 ## Workshop Preparation 
 
