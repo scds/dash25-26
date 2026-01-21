@@ -21,6 +21,8 @@ By the end of this session, participants will be able to:
 
 This session is ideal for students, researchers, and staff who want a user-friendly introduction to statistical analysis. No prior experience required!
 
+**You can find an asynchronous version of this workshop [here](https://learn.scds.ca/intro-spss/)**, along with previous years' recordings.
+
 ## Workshop Preparation 
 
 A working copy (either trial version or licensed copy) of SPSS is required on participants laptops.
