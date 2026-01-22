@@ -34,3 +34,5 @@ Vivek Jadon (he/him) provides research support in the use of numeric research da
 
 [Download as PDF.](assets/docs/Introduction-Python-Programming_NOV-13-2025.pdf)
 
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/0214e4c3-e687-4585-84db-e91837eb54b6/public"></iframe> [View original here.](https://echo360.ca/media/0214e4c3-e687-4585-84db-e91837eb54b6/public)
