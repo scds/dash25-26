@@ -36,3 +36,10 @@ Vivek Jadon (he/him) provides research support in the use of numeric research da
 <embed src="assets/docs/Introduction-to-SPSS-October-2025.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/Introduction-to-SPSS-October-2025.pdf)
+
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/72a5f226-52f7-4ce2-9e2d-11609c16741b/public"></iframe>
+[View original here.](https://echo360.ca/media/72a5f226-52f7-4ce2-9e2d-11609c16741b/public)
+
