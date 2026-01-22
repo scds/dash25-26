@@ -38,3 +38,5 @@ Vivek Jadon (he/him) provides research support in the use of numeric research da
 
 [Download as PDF.](assets/docs/Microdata-Analysis-Using-Python-nov-2025.pdf)
 
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8370da71-6e88-4aeb-95ea-ba18d2f615e5/public"></iframe> [View original here.](https://echo360.ca/media/8370da71-6e88-4aeb-95ea-ba18d2f615e5/public)
