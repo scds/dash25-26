@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating Data Visualizations with Javascript
-nav_order: 20260129
+nav_order: 20260326
 ---
 
 <img src="assets/img/datavizjavascript.png" alt="Workshop Title Slide" width="100%">
