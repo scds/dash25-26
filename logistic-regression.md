@@ -24,6 +24,8 @@ This workshop introduces logistic regression using R, with a focus on practical 
 
 This session is ideal for participants who have some experience with R and are ready to explore statistical modeling in a supportive, practical setting. Attending the linear regression workshop or having prior familiarity with linear regression concepts will enhance your learning experience in this session, but it is not required.
 
+**You can find an asynchronous version of this workshop [here](https://learn.scds.ca/machine-learning-with-r/logistic-regression.html/)**, along with previous years' recordings.
+
 ## Workshop Preparation
 
 A working copy of RStudio is required.
@@ -34,11 +36,9 @@ Sahar is a PhD candidate in the Health Research Methodology program at McMaster 
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/Logistic.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/Logistic.pdf)
 
 ## Workshop Recording
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/e5dacbfe-bbd8-4a2f-85f9-2b3ca420b626/public"></iframe> [View original here.](https://echo360.ca/media/e5dacbfe-bbd8-4a2f-85f9-2b3ca420b626/public)
