@@ -30,8 +30,6 @@ Sahar is a PhD candidate in the Health Research Methodology program at McMaster 
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/MetaAnalysis_Workshop_jan.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/MetaAnalysis_Workshop_jan.pdf)
