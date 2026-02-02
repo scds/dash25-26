@@ -33,3 +33,8 @@ Sahar is a PhD candidate in the Health Research Methodology program at McMaster 
 <embed src="assets/docs/MetaAnalysis_Workshop_jan.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/MetaAnalysis_Workshop_jan.pdf)
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/997693e4-18fb-4054-80df-5826fc55d4e8/public"></iframe>
+[View original here.](https://echo360.ca/media/997693e4-18fb-4054-80df-5826fc55d4e8/public)
