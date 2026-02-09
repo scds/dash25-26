@@ -38,3 +38,7 @@ Shubrandu (he/him) is a PhD candidate in Health Research Methodology (Clinical E
 
 Coming soon.
 
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ddd66a69-59ae-4059-9102-026c32d8305c/public"></iframe> [View original here.](https://echo360.ca/media/ddd66a69-59ae-4059-9102-026c32d8305c/public)
+
