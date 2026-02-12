@@ -36,3 +36,8 @@ Coming soon.
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/cffdc4f3-48c2-4140-b396-95aa3f3f9bd2/public"></iframe>
+[View original here.](https://echo360.ca/media/cffdc4f3-48c2-4140-b396-95aa3f3f9bd2/public)
