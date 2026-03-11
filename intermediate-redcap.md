@@ -32,3 +32,10 @@ Please register using your McMaster email address to ensure your REDCap practice
 ## Facilitator Bio
 
 Shubrandu (he/him) is a PhD candidate in Health Research Methodology (Clinical Epidemiology) at McMaster University with a background in epidemiology and biostatistics. He has extensive experience working with large healthcare datasets and supports researchers in study design, statistical analysis, and data management. His expertise includes regression modeling, survival analysis, and handling administrative health data, with proficiency in R, SAS, and SPSS.
+
+
+## Workshop Slides
+
+<embed src="assets/docs/Designing-Complex-Surveys-REDCap_Shubrandu_2026-03-04.pdf" style="border:none;" width="100%" height="466px">
+
+[Download as PDF.](assets/docs/Designing-Complex-Surveys-REDCap_Shubrandu_2026-03-04.pdf)
