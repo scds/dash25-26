@@ -39,3 +39,8 @@ Shubrandu (he/him) is a PhD candidate in Health Research Methodology (Clinical E
 <embed src="assets/docs/Designing-Complex-Surveys-REDCap_Shubrandu_2026-03-04.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/Designing-Complex-Surveys-REDCap_Shubrandu_2026-03-04.pdf)
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/fb0f74fb-ad1a-48f9-960d-b2cfa8c3f13c/public"></iframe>
+[View original here.](https://echo360.ca/media/fb0f74fb-ad1a-48f9-960d-b2cfa8c3f13c/public)
