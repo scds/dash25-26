@@ -28,5 +28,6 @@ To follow along with the workshop, participants will require access to ArcGIS On
 Christine Homuth (she/her) is the Library's GIS Specialist, providing support and resources to students, researchers, and faculty members working with Geographic Information Systems (GIS) and geospatial data.
 
 ## Workshop Slides
+<embed src="assets/docs/Create-an-Interactive-Dashboard-W2026.pdf" style="border:none;" width="100%" height="466px">
 
-Coming soon.
+[Download as PDF.](assets/docs/Create-an-Interactive-Dashboard-W2026.pdf)
