@@ -36,6 +36,11 @@ Vivek Jadon (he/him) provides research support in the use of numeric research da
 
 Coming soon.
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
+<embed src="assets/docs/Microdata-April-2026_removed.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/Microdata-April-2026_removed.pdf)
+
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/ae0aefa8-93fe-41f2-8c29-9ee763e35c13/public"></iframe> [View original here.](https://echo360.ca/media/ae0aefa8-93fe-41f2-8c29-9ee763e35c13/public)
+
+
